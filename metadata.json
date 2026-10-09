@@ -1,0 +1,6 @@
+{
+  "name": "ShopBilling - Offline Billing Software for Windows 7",
+  "description": "Professional offline desktop billing and inventory management software for Windows 7 SP1 (.NET 4.8 & SQLite), featuring high-performance Product Master, 50,000+ item index, Excel import/export, and Tamil/English bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
